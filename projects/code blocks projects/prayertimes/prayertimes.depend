@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1404045938 source:d:\projects\ prayertimes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
